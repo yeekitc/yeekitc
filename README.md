@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Yee Kit!
+
+I'm a sophomore studying Computer Science and Human-Computer Interaction at Carnegie Mellon University, interested in interaction design, social computing, and software development. 
+
+Thank you for viewing my GitHub profile 🌱
 
 <!--
 **ykitty2004/ykitty2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

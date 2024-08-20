@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yee Kit!
 
-I'm a sophomore studying Computer Science and Human-Computer Interaction at Carnegie Mellon University. I’m passionate about interaction design, social computing, and software development, and I’m excited to innovate societally impactful solutions. In my free time, I love listening to music from all across the world, collecting memorabilia, and preparing surprises for friends.
+I'm a junior studying Computer Science and Human-Computer Interaction at Carnegie Mellon University. I’m passionate about interaction design, social computing, and software development, and I’m excited to innovate societally impactful solutions. In my free time, I love listening to music from all across the world, collecting memorabilia, and preparing surprises for friends.
 
 Thank you for viewing my GitHub profile 🌱
 
